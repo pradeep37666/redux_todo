@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}  
+
+.todoitem{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    
+    padding: 0 20px;
+}
+   
+   
+
+
+.mybutton{
+    margin-left: 20px;
+    padding: 4px 10px;
+}
+.edit{
+    margin-left: 100px;
+}
